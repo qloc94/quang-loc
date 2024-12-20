@@ -1,0 +1,15 @@
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.exe.config
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.exe
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.pdb
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.AssemblyReference.cache
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.Form1.resources
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.Properties.Resources.resources
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.GenerateResource.cache
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.CoreCompileInputs.cache
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.exe
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.pdb
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\EntityFramework.dll
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\EntityFramework.xml
+C:\Users\lapto\source\repos\DeThi01\DeThi01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lapto\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.Up2Date
